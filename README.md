@@ -31,5 +31,5 @@ Things you may want to cover:
 - addeen helpers, controllers and views.
 - interactors file is for determining and sorting the sequence.
 - Then i did research on Rspec testing and how to write test cases.
-- added necessary test cases according to how the project is structured 
+- added necessary test cases to check/test list and jobs sequences
 
